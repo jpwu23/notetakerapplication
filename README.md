@@ -11,7 +11,7 @@ Takeaways from this project was the struggle to write the input from the fronten
 N/A
 
 ## Usage 
-Go to link: https://notetaker-bootcamp-59f99dd8dc39.herokuapp.com/ to deploy and use the application. Alternatively download the files from this Github repository and initialize an instance of express by opening server.js in integrated terminal. Then 
+Go to link: https://notetaker-bootcamp-59f99dd8dc39.herokuapp.com/ to see deployed application. Alternatively download the files from this Github repository and initialize an instance of express by opening server.js in integrated terminal. Then 
 run the command npm start, ensuring all the node.js and other dependencies are pre-installed.
 
 
